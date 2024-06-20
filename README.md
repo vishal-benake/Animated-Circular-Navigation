@@ -7,6 +7,6 @@
 <li>The icons in this project are taken from ionicons website you may visit that website and choose your icons.</li>
 <li>Thanks for visiting my Repo!</li>
 
-## Instagram
+## <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"> Instagram
 <h4>If you like, do follow me on Instagram</h4>
 <a href="https://www.instagram.com/_vishal_benake">Connect with me on Instagram</a>
